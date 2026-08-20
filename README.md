@@ -152,7 +152,6 @@ Ao evoluir as skills, prefira:
 2. Mantenha a pasta `skills/` com a mesma estrutura de diretórios.
 3. Se estiver usando Codex, aponte o repositório como base de skills ou copie as pastas desejadas para o diretório de skills configurado no ambiente.
 4. Se estiver usando GitHub Copilot, use o arquivo `.github/copilot-instructions.md` como referência base do projeto.
-5. No GitHub, aplique as regras de proteção da branch `master` conforme [BRANCH_PROTECTION.md](./BRANCH_PROTECTION.md).
 
 ## Fluxo Recomendado
 
