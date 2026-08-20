@@ -61,7 +61,6 @@ As skills deste repositório priorizam:
 - `.github/copilot-instructions.md` - instruções gerais para uso com GitHub Copilot
 - `.github/CODEOWNERS` - define `@hoskengadu` como aprovador obrigatório
 - `BRANCH_PROTECTION.md` - instruções para proteger a `master`
-- `QUICK_BRANCH_PROTECTION.md` - checklist curta para aplicar a proteção
 - `USAGE.md` - guia rápido de uso por perfil
 - `CONTRIBUTING.md` - guia de contribuição e governança
 
@@ -156,7 +155,6 @@ Ao evoluir as skills, prefira:
 3. Se estiver usando Codex, aponte o repositório como base de skills ou copie as pastas desejadas para o diretório de skills configurado no ambiente.
 4. Se estiver usando GitHub Copilot, use o arquivo `.github/copilot-instructions.md` como referência base do projeto.
 5. No GitHub, aplique as regras de proteção da branch `master` conforme [BRANCH_PROTECTION.md](./BRANCH_PROTECTION.md).
-6. Se quiser um passo a passo curto, siga [QUICK_BRANCH_PROTECTION.md](./QUICK_BRANCH_PROTECTION.md).
 
 ## Fluxo Recomendado
 
