@@ -1,0 +1,7 @@
+interface:
+  display_name: "Software Engineering Skills"
+  short_description: "Skills para entrega segura e confiável de software"
+  default_prompt: "Use $software-engineering-core to structure, implement, review, test, or harden software work with evidence-based guidance."
+
+policy:
+  allow_implicit_invocation: true
