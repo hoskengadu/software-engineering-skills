@@ -137,8 +137,6 @@ Este repositório foi pensado para funcionar com fluxo de merge request e revis�
 
 As skills não concedem permissão de commit, merge ou aprovação. Elas apenas orientam o assistente a respeitar a governança já existente.
 
-Para este repositório, `@hoskengadu` é o proprietário designado para aprovação de mudanças, conforme [CODEOWNERS](./.github/CODEOWNERS).
-
 ## Manutenção
 
 Ao evoluir as skills, prefira:
