@@ -27,4 +27,3 @@ When the work depends on a language stack, use the matching profile:
 5. Add or adjust tests.
 6. Run the security pass.
 7. Prepare the merge request.
-
