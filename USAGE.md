@@ -19,7 +19,6 @@ Quando o trabalho depender de uma stack de linguagem, use o perfil correspondent
 - `Python`: `implementation-quality-python`, `code-review-python`, `testing-and-coverage-python`, `security-review-python`
 
 ## Fluxo recomendado
-
 1. Estruture a demanda.
 2. Confirme a stack alvo, se necessário.
 3. Implemente com a orientação da stack correspondente.
@@ -27,4 +26,3 @@ Quando o trabalho depender de uma stack de linguagem, use o perfil correspondent
 5. Adicione ou ajuste testes.
 6. Faça a análise de segurança.
 7. Prepare o merge request.
-
